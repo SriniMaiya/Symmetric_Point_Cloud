@@ -7,7 +7,7 @@ To get the project running,
 1. Clone the project
     `git@github.com:SriniMaiya/Symmetric_Point_Cloud.git`
     
-All the necessary utility functions and the point clouds are already in the repository.
+    All the necessary utility functions and the point clouds are already in the repository.
     
   - Run `Kicker_Complete_SymmPlane.mlx` to detect the symmetry plane of the model.
   - Run `Kicker_InComplete_ICP_Registration.mlx` to perform a point cloud registeration using ICP registeration.
