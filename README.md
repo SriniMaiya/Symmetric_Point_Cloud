@@ -3,4 +3,4 @@ A Matlab Project, to find the Bilateral Symmetry of a complete point cloud and t
 
 
 
-[Project Report](https://github.com/SriniMaiya/Symmetric_Point_Cloud/blob/main/P1_Symmetric_Point_Cloud_923123_998190.pdf)
+<embed src="/P1_Symmetric_Point_Cloud_923123_998190.pdf" type="application/pdf">
