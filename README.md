@@ -11,9 +11,9 @@ To find more details and the workflow of the project, please check the project r
     All the necessary utility functions and the point clouds are already in the repository.
     
   - Run `Kicker_Complete_SymmPlane.mlx` to detect the symmetry plane of the model.
-    - Visualize the code and results in [Kicker_Complete_SymmPlane.pdf](https://github.com/SriniMaiya/Symmetric_Point_Cloud/files/8360938/Kicker_Complete_SymmPlane.pdf)
+    - Visualize the code and results in [Kicker_Complete_SymmPlane.pdf](Kicker_Complete_SymmPlane.pdf)
   - Run `Kicker_InComplete_ICP_Registration.mlx` to perform a point cloud registeration using ICP registeration.
-    - Visualize the code and results in [Kicker_InComplete_ICP_Registration.pdf](https://github.com/SriniMaiya/Symmetric_Point_Cloud/files/8360946/Kicker_InComplete_ICP_Registration.pdf)
+    - Visualize the code and results in [Kicker_InComplete_ICP_Registration.pdf](Kicker_InComplete_ICP_Registration.pdf)
   - Run `Kicker_InComplete_Interpolation.mlx` to visualize the manual interpolation of the missing points.
 
 
